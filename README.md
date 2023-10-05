@@ -80,9 +80,8 @@
 </div>
 
 ## 🏆 GitHub Trophies
-<div align="center"   >
 ![](https://github-profile-trophy.vercel.app/?username=sushant696&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-</div>
 
+## Git stats
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sushant696&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
