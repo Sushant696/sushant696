@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋 i am sushant babu parsai !</h2>
+<h2 align="center">Hi 👋 i am sushant babu parsai! </h2>
 
 ###
 <h1>Languages and tools :</h1>
@@ -83,4 +83,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=sushant696&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
 ## Git stats
-[(https://github-readme-stats.vercel.app/api/top-langs/?username=sushant696&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sushant696&langs_count=5&theme=tokyonight)]()
