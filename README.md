@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**Sushant696/sushant696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+                                      Hi i am sushant babu prasai
 
 - 🔭 I’m currently working on e-commerce website
 - 🌱 I’m currently learning python and react
