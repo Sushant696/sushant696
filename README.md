@@ -58,23 +58,7 @@
 
 ###
 <h1>Connect with me: </h1>
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40
-" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" href="https://twitter.com/SushantPrasai07" width="40" height="40
-" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40
-" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="40
-" alt="youtube logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="40" height="40
-" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="40
-" alt="microsoft-outlook logo"  />
- 
-</div>
-<div align="left">
   <a href="https://www.linkedin.com/in/sushant-babu-prasai-78034a292/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
@@ -96,5 +80,4 @@
 ###
 
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushant696&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sushant696&langs_count=5&theme=tokyonight)]()
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushant696&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false&order=3" height="190" alt="languages graph"  />
