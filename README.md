@@ -72,14 +72,11 @@
 " alt="facebook logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="40" height="40
 " alt="microsoft-outlook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="40" height="40
-" alt="stackoverflow logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="40" height="40
 " alt="slack logo"  />
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sushant696&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://raw.githubusercontent.com/Sushant696/Sushant696/output/snake.svg" alt="Snake animation" />
 
 ## Git stats
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sushant696&langs_count=5&theme=tokyonight)]()
