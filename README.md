@@ -1,4 +1,4 @@
-<h2 align="center">Hello👋 i am sushant babu parsai! </h2>
+<h2 align="center">Hi👋 i am sushant babu parsai! </h2>
 
 ###
 <h1>Languages and tools :</h1>
