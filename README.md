@@ -76,9 +76,10 @@
       </div>
 
 ###
-Currently Learing 
+<h1> Currently learning:</h1>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
 
+###
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushant696&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false&order=3" height="190" alt="languages graph"  />
