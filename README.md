@@ -87,6 +87,5 @@
 <h1>  
 Github stats 
 </h1>
-<div align="center>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushant696&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false&order=3" height="190" alt="languages graph"  />
-</div>
+  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushant696&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false&order=3" height="190" alt="languages graph"  />
+
