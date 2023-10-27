@@ -1,5 +1,5 @@
 <h2 align="center"> Hi 👋 i am sushant babu parsai!</h2>
-###
+
 <h1>Languages and tools :</h1>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
