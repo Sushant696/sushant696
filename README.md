@@ -80,4 +80,4 @@ Github stats
 </h1>
   <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushant696&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false&order=3" height="190" alt="languages graph"  />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushant696&" alt="sushant696" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/? user=sushant696" alt="" /></p>
