@@ -78,5 +78,6 @@
 <h1>  
 Github stats 
 </h1>
-  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushant696&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false&order=3" height="190" alt="languages graph"  />
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sushant696&theme=dark" alt="GitHub Streak" /></a>
+  <img align='center' src="https://github-readme-stats.vercel.app/api/top-langs?username=Sushant696&locale=en&hide_title=false&layout=compact&card_width=380&langs_count=5&theme=dracula&hide_border=false&order=3" height="190" alt="languages graph"  />
+
